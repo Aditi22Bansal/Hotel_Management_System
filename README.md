@@ -1,7 +1,5 @@
 # Programming_Paradigms_Project
 
-##Team Members
-
 ## Team Members
 
 <table>
