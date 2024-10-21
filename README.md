@@ -7,21 +7,21 @@
     <th>Name</th>
     <th>PRN</th>
   </tr>
+    <tr>
+    <td>Aditi Bansal</td>
+    <td>23070122013</td>
+  </tr>
   <tr>
     <td>Abhirami Nair</td>
     <td>23070122012</td>
   </tr>
   <tr>
-    <td>Aditi Bansal</td>
-    <td>23070122013</td>
-  </tr>
-  <tr>
-    <td>Afifa Bintul Hasan</td>
-    <td>23070122017</td>
-  </tr>
-  <tr>
     <td>Anagha Nair</td>
     <td>23070122027</td>
+  </tr>
+    <tr>
+    <td>Afifa Bintul Hasan</td>
+    <td>23070122017</td>
   </tr>
 </table>
 
@@ -68,6 +68,19 @@ The application consists of the following components:
 3. **LuxuryRoom Class**: Also inherits from the `Room` class. This class specifies room charges for luxury rooms and offers discounts for stays longer than five days.
 
 4. **Main Function**: The entry point of the application that manages user interactions, allowing guests to input their details and select room types, ultimately leading to bill generation.
+
+## Demo Video
+Watch the demo video showcasing the Clazire Hotel Booking System in action:
+
+[![Demo Video]()
+---
+## Contact
+
+For questions or inquiries, please reach out to:
+
+- **Name**: Aditi Bansal
+- **GitHub**: [aditi22bansal](https://github.com/aditi22bansal)
+- **Email**: [aditibansal1408@gmail.com](mailto:aditibansal1408@gmail.com)
 
 ---
 
