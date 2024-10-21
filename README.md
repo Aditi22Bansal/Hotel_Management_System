@@ -69,10 +69,6 @@ The application consists of the following components:
 
 4. **Main Function**: The entry point of the application that manages user interactions, allowing guests to input their details and select room types, ultimately leading to bill generation.
 
-## Demo Video
-Watch the demo video showcasing the Clazire Hotel Booking System in action:
-
-[![Demo Video]()
 ---
 ## Contact
 
