@@ -70,15 +70,6 @@ The application consists of the following components:
 4. **Main Function**: The entry point of the application that manages user interactions, allowing guests to input their details and select room types, ultimately leading to bill generation.
 
 ---
-## Contact
-
-For questions or inquiries, please reach out to:
-
-- **Name**: Aditi Bansal
-- **GitHub**: [aditi22bansal](https://github.com/aditi22bansal)
-- **Email**: [aditibansal1408@gmail.com](mailto:aditibansal1408@gmail.com)
-
----
 
 Thank you for exploring the Clazire Hotel Booking System! This project showcases effective use of OOP principles to create a robust and user-friendly booking experience.
 
