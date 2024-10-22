@@ -36,6 +36,7 @@ This application is designed for managing room bookings at Clazire Hotel, utiliz
 - **Add-On Services**: Guests can opt for additional services like laundry and pool access.
 - **Discount Offers**: Discounts are automatically applied based on specific conditions (e.g., number of members, length of stay).
 - **Detailed Billing**: A comprehensive bill is generated showing all charges, discounts, and taxes.
+- **Error Handling**: All types of errors are handled throighout the code.
 
 ## Object-Oriented Programming Concepts
 
